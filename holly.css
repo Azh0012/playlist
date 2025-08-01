@@ -1,0 +1,57 @@
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(4, 6, 16);
+
+}
+.name{
+    overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid;
+  animation: typing 2s steps(20, end) forwards;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    font-family: 'Arial', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.6;
+  letter-spacing: 1px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+.fitoor{
+    width: 100%;
+    height: 100%px;
+    background-color: rgb(182, 192, 241);
+}
+table{
+    width: 100%;
+    height: 100px;
+    
+}
+table:hover{
+    background-color: #007bff; /* Blue */
+  color: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transform: scale(1.01);
+  transition: all 0.3s ease;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+img:hover{
+    transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+  filter: brightness(1.1);
+}
+th{
+    font-size: 30px;
+    text-align-last: left;
+    width: 200px;
+}
+.magan{
+    width: 100%;
+    height: 100%px;
+    background-color: rgb(182, 192, 241);
+}
