@@ -1,0 +1,96 @@
+.bg{
+    background-color: rgb(4, 6, 16);
+}
+.header{
+    background-color: rgb(3, 3, 17);
+    font-size: 100px;
+    color: white ;
+    text-align: center;
+    padding: 50px;
+     text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    font-family: 'Arial', sans-serif;
+  font-weight: 600;
+  line-height: 1.6;
+  letter-spacing: 1px;
+}
+.navbar1 {
+    padding: 30px 25px;
+      background-color: #b4d9d9;
+      overflow: hidden;
+    }
+
+    /* Navbar links */
+    .navbar1 a {
+        text-decoration: none;
+        float: left;
+        display: block;
+        color: rgb(14, 17, 207);
+        text-align: center;
+        padding: 30px 0px 30px 120px;
+        font-size: 25px;
+    }
+    img{
+        float: left;
+        width: 150px;
+        height: 100px;
+    }    
+    .Songtype{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .r1{
+        width: 500px;
+        height: 700px;
+        margin: 50px;
+    } 
+    .h1{
+        width: 1200px;
+        height: 100px;
+        color: white;
+        font-size: 50px;
+        text-align: center;
+         text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    font-family: 'Arial', sans-serif;
+  font-weight: 600;
+  line-height: 1.6;
+  letter-spacing: 1px;
+        
+    }
+    .Bolly img{
+        width: 500px;
+        height: 500px;
+    }
+    .b1{
+       padding-top: 20px;
+
+    }
+    button{
+          width: 500px;
+        height: 100px;
+        font-size: 40px;
+        padding-top: 20px;
+    }
+    button:hover{
+        background-color: rgb(1, 93, 1);
+        color: rgb(117, 117, 202);
+
+
+    }
+    .r2{
+        width: 500px;
+        height: 600px;
+        margin: 50px;
+        padding-top: 100px;
+
+    }
+    .Holly img{
+        width: 500px;
+        height: 500px;
+    }
+    .b2{
+        width: 500px;
+        height: 100px;
+        color: white;
+        font-size: 40px;
+    }
